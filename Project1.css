@@ -1,0 +1,16 @@
+* {
+  font-family: Helvectica, Arial, sans-serif;
+}
+
+h1, h2, li {
+  color: rgb(233, 36, 134);
+  font-family: math;
+}
+
+p, li {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
